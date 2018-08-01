@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.infoshareacademy</groupId>
-  <artifactId>hello-world</artifactId>
+  <artifactId>mvn-hello-world-2807</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>hello-world</name>
+  <name>mvn-hello-world-2807</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
